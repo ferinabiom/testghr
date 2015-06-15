@@ -2,7 +2,8 @@
 echo 'jakis tekst';
 echo 'jakis tekst 2';
 //-------
-echo 'linia3';
+echo 'linia32';
+//4
 
 
 // tutaj dodajemy kolejny komentarz

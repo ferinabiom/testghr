@@ -1,6 +1,6 @@
 <?php
 echo 'jakis tekst';
-echo 'jakis tekst 2';
+echo 'jakis tekst 2s';
 //-------
 echo 'linia32';
 //4
